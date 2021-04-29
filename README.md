@@ -12,3 +12,4 @@ Image Download Link : https://drive.google.com/drive/folders/1L_23PjPL1qrMN1Z2JU
 
 [Simple Parallax Scrolling Effect with CSS & Vanilla Javascript](https://www.youtube.com/watch?v=TawH-AqHTXc)
 
+![Complete](https://user-images.githubusercontent.com/51290739/116511974-41914400-a902-11eb-9593-2b58f92d9732.gif)
